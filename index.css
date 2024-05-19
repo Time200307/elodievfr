@@ -1,0 +1,12 @@
+html {
+    background-color: #a8d6f0;
+    font-family: 'roboto condensed',sans-serif;
+    color: #213953;
+    font-size: 50px;
+    display: block;
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
